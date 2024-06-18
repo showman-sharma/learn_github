@@ -4,4 +4,4 @@ Learn Github
 
 ## Team Members 
 
-- keerthi
+- keerthii
